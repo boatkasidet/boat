@@ -1,0 +1,65 @@
+    .logohead{
+        background-color:chocolate;
+        font-size: 100px;
+        font-family: "Bebas Neue";
+        text-align: left;
+        display: block;
+    }
+    .abouthead{
+        font-size: 50px;
+        font-family: "Bebas Neue";
+        text-align: right;
+        display: block;
+    }
+
+    .itnews{
+        font-family: "Bebas Neue";
+        font-size: 40px;
+        float: left;
+        width: 50%;
+        height: auto;
+        background-color: white;
+        display: block;
+    }
+    /*next-pre*/
+    .mySlides {display:none;}
+    .w3-left, .w3-right, .w3-badge {cursor:pointer}
+    .w3-badge {height:13px;width:13px;padding:0}
+
+    .newphone{
+        font-family: "Bebas Neue";
+        float: right;
+        text-align: left;
+        width: 50%;
+        font-size: 50px;
+        background-color: #f1f1f1;
+    }
+       /* list */
+    ul {
+        width: 100%;
+        font-size: 30px;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    li a {
+        float: left;
+        width: auto;
+        display: block;
+        color: black;
+        padding: 8px 16px;
+        text-decoration: none;
+        width: 100%;
+      }
+      
+    li a.active {
+        background-color: gray;
+        color: white;
+      }
+      
+    li a:hover:not(.active) {
+        background-color: gray;
+        color: white;
+      }
+    
+    
